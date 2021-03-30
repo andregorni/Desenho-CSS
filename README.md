@@ -1,3 +1,3 @@
-# Desenho_CSS
+# Desenho-CSS
 
 Training drawing in css
